@@ -2,7 +2,7 @@ Title: My only family photo
 Subtitle: - the Slomovic family 1941
 Date: 1941-01-01
 Modified: 2026-06-26
-Tags: Slomovic, family, Bhutz, Carpathian Mountains, Czechoslovakia
+Tags: Slomovic, family, Bhutz, Carpathian Mountains, Czechoslovakia, The Boys
 Category: blog
 Authors: Rachel Levy
 Summary: My only family photo - the Slomovic family 1941

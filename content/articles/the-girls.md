@@ -19,4 +19,4 @@ Even with that fact, the group was always called "The Boys".
 I was part of the [third group](https://45aid.org/history/the-five-groups/the-third-group/) of kids airlifted to the
 UK in early 1946 by the [Central British Fund](https://www.theholocaustexplained.org/survival-and-legacy/survivors-and-dp-era/the-central-british-fund-and-the-children-rescue-scheme/).
 
-The video includes pictures of my late husband Phin, my chilren Martin and Shelley. and just for a split second, my granddaughter Hannah.
+The video includes pictures of my late husband Phin, my children Martin and Shelley. and just for a split second, my granddaughter Hannah.

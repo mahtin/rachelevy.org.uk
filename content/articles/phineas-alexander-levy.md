@@ -4,6 +4,7 @@ Date: 1953-10-11
 Modified: 1953-10-11
 Tags: family
 Category: blog
+Slug: phineas-alexander-levy
 Authors: Rachel Levy
 Summary: Phineas (Phin) Alexander Levy - my husband
 Status: published

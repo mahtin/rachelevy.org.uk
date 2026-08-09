@@ -1,7 +1,7 @@
 Title: Rachel's Story
 Subtitle: written by my daugher Shelley Levy
 Date: 2011-10-10
-Modified: 2026-06-26
+Modified: 2026-08-09
 Tags: Rachel's Story, Shelley Levy, The Boys
 Category: story
 Authors: Shelley Levy
@@ -11,7 +11,7 @@ Status: published
 *Written by Shelley Levy October 2010 -*
 
 Rachel Levy was born Ruzena Slomovic in 1930 in a Shetel (Jewish Village)
-called Bhutz in the Carpathian mountains. In these times the Shetels had
+called [Bhutz](/blog/bhutz) in the Carpathian mountains. In these times the Shetels had
 specific roles. One would make bread, another leather, another cloths, etc.
 Bhutz was the religious Shetel where nearly all the Jewish men devoted their
 lives to learning Torah and Talmud, many becoming Rabbis. They were (and
@@ -138,7 +138,7 @@ was treated at Harefield hospital by Sir Magdi Yacoub in the 1970’s and was
 one of the first patients to receive a heart and lung transplant. The operation
 was a success, but he died of rejection complications later.
 
-At another Jewish youth group Rachel met Phineas Levy a local Herne Hill
+At another Jewish youth group Rachel met [Phineas Levy](/blog/phineas-alexander-levy/) a local Herne Hill
 boy from Brixton Synagogue (Brixton used to be a Jewish Area), they fell in
 love and married. They have 2 children Martin and Shelley.
 

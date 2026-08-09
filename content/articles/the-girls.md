@@ -1,7 +1,7 @@
 Title: The Girls
 Subtitle: - there were over 200 Girls as part of The Boys
 Date: 2025-05-30
-Modified: 2025-05-30
+Modified: 2026-08-09
 Tags: 45 Aid, The Boys, history
 Category: blog
 Authors: Rachel Levy
@@ -22,4 +22,4 @@ UK in early 1946 by the [Central British Fund](https://www.theholocaustexplained
 I have my own page on the 45 Aid website.
 It's under the registered name the Central British Fund used when I arrived in the UK. ["Ruzena Slomovicova"](https://45aid.org/survivors/ruzena-slomovicova/).
 
-The video includes pictures of my late husband Phin, my children Martin and Shelley. and just for a split second, my granddaughter Hannah.
+The video includes pictures of my late husband [Phin](/blog/phineas-alexander-levy/), my children Martin and Shelley. and just for a split second, my granddaughter Hannah.

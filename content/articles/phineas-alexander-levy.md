@@ -1,7 +1,7 @@
 Title: Phineas (Phin) Alexander Levy
 Subtitle: - my husband
 Date: 1953-10-11
-Modified: 1953-10-11
+Modified: 2026-08-09
 Tags: family
 Category: blog
 Slug: phineas-alexander-levy
